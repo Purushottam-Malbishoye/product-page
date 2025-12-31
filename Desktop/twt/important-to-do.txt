@@ -1,0 +1,4 @@
+1. implement cookies
+2. check if session based login has been implemented
+3. footer links are not working
+4. Lucy spelling is Luci
